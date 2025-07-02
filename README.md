@@ -2,10 +2,10 @@ Vegetable Classification: CNN vs Random Forest
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kielu91/vegetable-classification-cnn/blob/main/vegetable_classification_cnn.ipynb)
 ## Szybki start
-**Kliknij przycisk "Open in Colab" powy縠j** i uruchom wszystkie kom髍ki!
+**Kliknij przycisk "Open in Colab" powy偶ej** i uruchom wszystkie kom贸rki!
 
 ## Projekt
-- **Autor**: kasz Kielczyk 
+- **Autor**: 艁ukasz Kielczyk 
 - **Dataset**: [Vegetable Image Dataset](https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset)
 - **Modele**: CNN + Random Forest
 - **Wyniki**: CNN 98.87%, RF 98.77% accuracy
@@ -13,17 +13,17 @@ Vegetable Classification: CNN vs Random Forest
 ## Architektura
 - **CNN**: 4 warstwy konwolucyjne 
 - **Features**: 64-wymiarowe cechy z CNN dla Random Forest
-- **Dane**: 21,000 obraz體, 15 klas warzyw
+- **Dane**: 21,000 obraz贸w, 15 klas warzyw
 - **Augmentacja**: ColorJitter, RandomFlip, Rotation
 
 
-## Zawarto滄 notebook'a
+## Zawarto艙忙 notebook'a
 1. **Setup & Data Loading** - Kaggle dataset download
-2. **Data Analysis** - Rozk?ad klas i wizualizacja
+2. **Data Analysis** - Rozk艂ad klas i wizualizacja
 3. **CNN Architecture** - Model definition i trenowanie
 4. **Feature Extraction** - CNN jako feature extractor
 5. **Random Forest** - Klasyfikacja na CNN features
-6. **Results & Comparison** - Szczeg蟪owa analiza wynik體
+6. **Results & Comparison** - Szczeg贸鲁owa analiza wynik贸w
 
 ## Wymagania
 Notebook automatycznie instaluje potrzebne biblioteki:
