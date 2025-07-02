@@ -17,7 +17,7 @@ Vegetable Classification: CNN vs Random Forest
 - **Augmentacja**: ColorJitter, RandomFlip, Rotation
 
 
-## Zawartoœæ notebook'a
+## Zawartość notebook'a
 1. **Setup & Data Loading** - Kaggle dataset download
 2. **Data Analysis** - Rozkład klas i wizualizacja
 3. **CNN Architecture** - Model definition i trenowanie
